@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2016-01
+date_format: 2016-01-01
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -22,7 +22,7 @@ date_format: 2016-01
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: 访问学者
+  - title: 访问学者
     company : 斯坦福直线加速器中心国家加速器实验室(SLAC)
     company_url : www6.slac.stanford.edu
     location : 美国加利福尼亚州
