@@ -62,4 +62,4 @@ highlight_name: false
 
 I'm a postdoc research working at Institute of High Energy Physics, Chinese Academy of Sciences. I am working on MDI Background Issues on CEPC. My research insterest also include radiation protection related issues. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-en.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
