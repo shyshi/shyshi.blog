@@ -19,15 +19,15 @@ bio: My research interests include radiation physics/protection. Now working on 
 interests:
 - Radiation Protection
 - MDI Beam Backgrounds
-- Coding?
+- Reading and Hi-Tech Products.
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Radiation Protection
+  - course: PhD on Radiation Protection
     institution: Unversity of Chinese Academy of Sciences
     year: 2018
-  - course: BSc in Nuclear Physics and Technology
+  - course: BSc on Nuclear Physics and Technology
     institution: Fudan University
     year: 2013
 
