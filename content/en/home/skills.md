@@ -19,11 +19,13 @@ feature:
 - description: 50%
   icon: python
   icon_pack: fab
-  name: R
+  name: Python
 - description: 5%
   icon: camera-retro
   icon_pack: fas
   name: Photography
+- description: 50%
+  name: FLUKA
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
