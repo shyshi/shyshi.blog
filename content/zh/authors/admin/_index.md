@@ -63,4 +63,4 @@ highlight_name: false
 
 我当前是中国科学院高能物理研究所实验物理中心的一名博士后，从事 CEPC 束流本底研究，同时参与 HEPS 辐射防护设计的工作。
 
-{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}。
+{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/cv_cn.pdf" "newtab" >}}简历{{< /staticref >}}。
