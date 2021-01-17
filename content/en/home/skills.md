@@ -26,6 +26,10 @@ feature:
   name: Photography
 - description: 50%
   name: FLUKA
+- icon: "AppleTeacher_black"
+  icon_pack: "custom"
+  name: "Apple Teacher"
+  description: "70%"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
