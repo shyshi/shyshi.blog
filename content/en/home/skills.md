@@ -20,10 +20,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 5%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+# - description: 5%
+#   icon: camera-retro
+#   icon_pack: fas
+#   name: Photography
 - description: 50%
   name: FLUKA
 - icon: "AppleTeacher_black"
